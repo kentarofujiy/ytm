@@ -1,0 +1,27 @@
+{
+  "name": "ytm",
+  "version": "1.0.0",
+  "description": "Youtube Music Electron Wrapper by Kentaro Fujiy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentarofujiy/ytm.git"
+  },
+  "keywords": [
+    "Youtube",
+    "Music"
+  ],
+  "author": "Kentaro Fujiy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kentarofujiy/ytm/issues"
+  },
+  "homepage": "https://github.com/kentarofujiy/ytm#readme",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
